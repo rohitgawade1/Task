@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}.App{display:flex;justify-content:center}.Card{box-shadow:2px 2px 7px 2px grey;display:flex;flex-direction:column;height:20rem;justify-content:space-between;margin-top:3rem;padding:1rem;width:30rem}.heading{margin:1rem 0;text-align:center}.btns{display:flex;justify-content:space-between;margin:2rem 0}button{cursor:pointer;padding:.5rem 1rem;width:6rem}@media only screen and (max-width:768px){.Card{width:20rem}}@media only screen and (max-width:320px){.Card{width:16rem}}
+/*# sourceMappingURL=main.3e219bd2.css.map*/
